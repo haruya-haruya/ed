@@ -1,0 +1,28 @@
+h1 {
+font-family: Rounded M+ 1c;
+}
+
+button {
+background-color: #4169E1;
+border-radius: 10px;
+width: 100px;
+height: 50px;
+font-family: Rounded M+ 1c;
+color: white;
+border: none;
+font-size: 18px;
+text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  transition:all .3s;
+}
+button:active {
+  color:#fff;
+}
+
+button:hover {
+  background: #6495ED;
+}
+
